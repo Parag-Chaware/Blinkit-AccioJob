@@ -56,6 +56,9 @@ button{
     border : 1px solid black ! important
 }
 
+#login{
+    border : 0px none black ! important
+}
 
 .mainSection{
     width:90vw;
